@@ -1,0 +1,16 @@
+{
+    "name": "dishiao/composer-car",
+    "description": "test composer by github",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "1.2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adonis",
+            "email": "adonis.di@toursforfun.cn"
+        }
+    ],
+    "minimum-stability": "dev"
+}
